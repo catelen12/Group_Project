@@ -1,0 +1,19 @@
+h1 {
+	font-family: 'Montserrat Alternates', sans-serif;
+	color:purple;
+	font-size: 60px;
+	text-align: center
+
+	}
+	p { 
+	font-family: 'Lily Script One', cursive;
+	color:;
+	font-size: 60px;
+	text-align:center;
+	}
+	body#page2{
+	background-image:url('../images/avenged-sevenfold.jpg');
+	}
+	body#index{
+	background-image:url('../images/chicken.jpg');
+	}
